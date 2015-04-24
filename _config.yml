@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Trey White
-tagline:             #Technologist
+tagline:             Technology Consultant at 540.co
 url:                 http://www.treywhite.com
 paginate:            1
 baseurl:             ""
